@@ -1,0 +1,15 @@
+Reachability Report
+===================
+
+Host: google.com
+Status: Reachable
+Response time: 139 ms
+
+Host: localhost
+Status: Reachable
+Response time: 98 ms
+
+Host: 127.0.0.1
+Status: Reachable
+Response time: 76 ms
+
